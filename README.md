@@ -20,3 +20,5 @@ Road system
 - Medium road
 - Small road
 - Rail way
+Zoning
+- Village Zoning
