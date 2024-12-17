@@ -11,7 +11,8 @@ Plugins need to be enabled:
 ![PCGLandscapePatch](https://github.com/user-attachments/assets/e93d00d2-f94e-4be9-9206-fe4d32df06b5)
 
 ## BP_PathFinding
-![Pathfinding](https://github.com/user-attachments/assets/37ab5e0f-127e-4ac4-953b-d8cd6539edbb)
+![pathfinding2](https://github.com/user-attachments/assets/2563c89a-a77a-4017-b2fe-3146594c1b22)
+
 
 
 ## To Do
