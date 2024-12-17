@@ -21,7 +21,8 @@ Road system
 - Medium road
 - Small road
 - Rail way
-- Auto pairing 2 locations and generate road
+- Auto pairing 2 locations and generate roads
+- Manually pick 2 location and generate road
 
 Zoning
 - Village Zoning
