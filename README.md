@@ -1,10 +1,12 @@
 # PCGLandscape (WIP)
+Unreal Engine Version : 5.5
  
 Plugins need to be enabled:
 - Procedural Content Generation Framework(PCG)
 - Procedural Content Generation Framework(PCG) External Data Interop
 - Procedural Content Generation Framework(PCG) Geometry Script Interop
 - Landscape Patch
+
 
 
 ## BP_PCGLandscapePatch
